@@ -1,0 +1,1 @@
+cewl -w pass1.txt -d 10 -m 1 http://192.168.32.130/joomla
